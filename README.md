@@ -1,14 +1,17 @@
-DAV Lab Experiments
+# README.md
 
-📊 Data Analytics and Visualization Lab
+# 📊 Data Analytics and Visualization (DAV) Lab
 
-This repository contains the Data Analytics and Visualization (DAV) Lab experiments implemented using Python and Jupyter Notebook.
+This repository contains the **Data Analytics and Visualization (DAV) Lab experiments** implemented using **Python** and **Jupyter Notebook**.
 
-The experiments demonstrate fundamental concepts of data analysis, data preprocessing, visualization, statistical analysis, and exploratory data analysis using commonly used Python libraries.
+The experiments cover essential concepts of data preprocessing, exploratory data analysis (EDA), statistical analysis, and data visualization using widely used Python libraries.
 
-📁 Repository Structure
+---
 
-DAV-Lab-main/
+## 📁 Repository Structure
+
+```text
+dav/
 │
 ├── DAV 1.ipynb
 ├── DAV 2.ipynb
@@ -26,98 +29,121 @@ DAV-Lab-main/
 ├── DAV 14.ipynb
 ├── DAV 15.ipynb
 └── DAV 16.ipynb
+```
 
-🛠️ Technologies Used
+---
 
-- Python 3
-- Jupyter Notebook
-- NumPy
-- Pandas
-- Matplotlib
-- Seaborn
-- Scikit-learn
+## 🛠️ Technologies Used
 
-🚀 Getting Started
+* Python 3
+* Jupyter Notebook
+* NumPy
+* Pandas
+* Matplotlib
+* Seaborn
+* Scikit-learn
 
-1. Clone the Repository
+---
 
-git clone https://github.com/sanjanapcse2024-cell/DAV_EXPERIMENTS.git
+## 🚀 Getting Started
 
-2. Navigate to the Lab Folder
+### 1. Clone the Repository
 
-cd DAV_EXPERIMENTS/DAV-Lab-main
+```bash
+git clone https://github.com/Samiksha104/dav.git
+```
 
-3. Install Required Libraries
+### 2. Navigate to the Project Folder
 
+```bash
+cd dav
+```
+
+### 3. Install Required Libraries
+
+```bash
 pip install numpy pandas matplotlib seaborn scikit-learn jupyter
+```
 
-4. Start Jupyter Notebook
+### 4. Launch Jupyter Notebook
 
+```bash
 jupyter notebook
+```
 
-Open any of the "DAV *.ipynb" files to run the corresponding experiment.
+Open any of the **DAV *.ipynb** files and execute the cells to perform the corresponding experiment.
 
-📚 Experiments
+---
 
-Experiment| Notebook
-Experiment 1| "DAV 1.ipynb"
-Experiment 2| "DAV 2.ipynb"
-Experiment 3| "DAV 3.ipynb"
-Experiment 4| "DAV 4.ipynb"
-Experiment 5| "DAV 5.ipynb"
-Experiment 6| "DAV6.ipynb"
-Experiment 7| "DAV 7.ipynb"
-Experiment 8| "DAV 8.ipynb"
-Experiment 9| "DAV 9.ipynb"
-Experiment 10| "DAV 10.ipynb"
-Experiment 11| "DAV 11.ipynb"
-Experiment 12| "DAV 12.ipynb"
-Experiment 13| "DAV 13.ipynb"
-Experiment 14| "DAV 14.ipynb"
-Experiment 15| "DAV 15.ipynb"
-Experiment 16| "DAV 16.ipynb"
+## 📚 Experiments
 
-🎯 Objectives
+| Experiment    | Notebook     |
+| ------------- | ------------ |
+| Experiment 1  | DAV 1.ipynb  |
+| Experiment 2  | DAV 2.ipynb  |
+| Experiment 3  | DAV 3.ipynb  |
+| Experiment 4  | DAV 4.ipynb  |
+| Experiment 5  | DAV 5.ipynb  |
+| Experiment 6  | DAV6.ipynb   |
+| Experiment 7  | DAV 7.ipynb  |
+| Experiment 8  | DAV 8.ipynb  |
+| Experiment 9  | DAV 9.ipynb  |
+| Experiment 10 | DAV 10.ipynb |
+| Experiment 11 | DAV 11.ipynb |
+| Experiment 12 | DAV 12.ipynb |
+| Experiment 13 | DAV 13.ipynb |
+| Experiment 14 | DAV 14.ipynb |
+| Experiment 15 | DAV 15.ipynb |
+| Experiment 16 | DAV 16.ipynb |
 
-The main objectives of this laboratory are:
+---
 
-- To understand the fundamentals of Data Analytics and Visualization.
-- To perform data preprocessing and cleaning using Python.
-- To analyze datasets using Pandas and NumPy.
-- To create meaningful visualizations using Matplotlib and Seaborn.
-- To identify patterns, trends, and relationships within datasets.
-- To apply statistical and analytical techniques to real-world data.
-- To gain practical experience with Jupyter Notebook.
+## 🎯 Objectives
 
-📈 Key Concepts
+* Understand the fundamentals of Data Analytics and Visualization.
+* Perform data preprocessing and cleaning using Python.
+* Analyze datasets using Pandas and NumPy.
+* Create insightful visualizations using Matplotlib and Seaborn.
+* Explore patterns, trends, and relationships in datasets.
+* Apply statistical and analytical techniques to real-world datasets.
+* Gain hands-on experience with Jupyter Notebook.
 
-The repository provides practical exposure to:
+---
 
-- Data loading and handling
-- Data cleaning and preprocessing
-- Exploratory Data Analysis (EDA)
-- Descriptive statistics
-- Data visualization
-- Graph and chart generation
-- Correlation analysis
-- Dataset analysis
-- Pattern and trend identification
-- Basic machine learning/data analysis techniques
+## 📈 Key Concepts
 
-💻 How to Use
+This repository demonstrates:
+
+* Data loading and preprocessing
+* Data cleaning
+* Exploratory Data Analysis (EDA)
+* Descriptive statistics
+* Data visualization
+* Correlation analysis
+* Dataset exploration
+* Pattern and trend identification
+* Basic machine learning and analytics concepts
+
+---
+
+## 💻 How to Use
 
 1. Open the required Jupyter Notebook.
-2. Run the cells sequentially.
-3. Provide the required input or dataset when prompted.
-4. Observe the generated outputs and visualizations.
-5. Modify the code and datasets to perform further analysis.
+2. Execute the notebook cells sequentially.
+3. Load the required dataset (if applicable).
+4. Observe the outputs and visualizations.
+5. Modify the code to experiment with different datasets and analyses.
 
-👩‍💻 Author
+---
 
-Sanjana
+## 👩‍💻 Author
 
-GitHub: "sanjanapcse2024-cell" (https://github.com/sanjanapcse2024-cell)
+**Samiksha R**
 
-📄 License
+GitHub: **https://github.com/Samiksha104**
 
-This repository is intended primarily for academic and educational purposes as part of the Data Analytics and Visualization Laboratory.
+---
+
+## 📄 License
+
+This repository is intended for **academic and educational purposes** as part of the **Data Analytics and Visualization Laboratory** coursework.
